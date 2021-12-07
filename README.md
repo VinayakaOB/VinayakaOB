@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VinayakaOB
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Angular
+- 👀 I’m interested in Full Stack Web Development.
+- 🌱 I’m currently learning Angular and Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vinayaka.ob@lincode.us
 
